@@ -1,0 +1,9 @@
+{
+    "domain": "evn_mientrung",
+    "name": "EVN Mien Trung",
+    "documentation": "https://github.com/tientun/evn_mientrung",
+    "dependencies": ["http"],
+    "codeowners": ["@tientun"],
+    "requirements": ["requests"],
+    "quality_scale": "silver"
+  }
