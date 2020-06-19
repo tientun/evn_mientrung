@@ -1,6 +1,7 @@
 # Hassio component evn_mientrung
 
 Custom component này dùng để tạo sensor cho chỉ số đồng hồ điện theo tháng của EVN Miền trung
+![Entity](https://i.imgur.com/DBCmbiH.png)
 
 ## Features
 * Thông tin người đăng ký
